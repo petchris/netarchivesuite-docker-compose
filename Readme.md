@@ -1,3 +1,7 @@
+Preconditions
+Build netarchivesuite from netarchivesuite/netarchivesuite with maven and rename the files to NetarchiveSuite-<version>.zip and NetarchiveSuite-heritrix3-bundler-<version>.zip. Next copy the two files to the "nasapp" directory of the netarchivesuite-docker-compose
+
+
 Running 
 
 docker-compose build
